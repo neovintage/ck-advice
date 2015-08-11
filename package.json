@@ -1,0 +1,15 @@
+{
+  "name": "ck-advice",
+  "version": "1.0.0",
+  "description": "Sage advice from Craig Kerstiens",
+  "main": "index.js",
+  "author": "Rimas Silkaitis",
+  "repository": "neovintage/ck-advice",
+  "bugs": {
+    "url": "https://github.com/neovintage/ck-advice/issues"
+  },
+  "keywords": [
+    "heroku-plugin"
+  ],
+  "license": "ISC"
+}
